@@ -1,0 +1,33 @@
+
+body{
+	font-family: Arial;
+	background-color: #363636;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+a{
+	color: #FF3B30;
+}
+
+.ipdt{
+	font-weight: bold;
+	color: #FF3B30;
+}
+
+#addrInput{
+  width: 70em;
+  background-color: #C7EF6D;
+  line-height: 2em;
+  height: 2em;
+  border-radius: 0.5em;
+  text-align: center;
+  font-family: monospace;
+  font-size: 1.3em;
+}
+
+#submitRequest{
+	font-weight: bold;
+	height: 2.6em;
+	vertical-align: center;
+}
